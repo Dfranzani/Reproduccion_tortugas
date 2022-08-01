@@ -2,7 +2,7 @@
 
 ## ¿Qué es?:
 
-Este modelo simula un sistema bioinspirado genético de comportamiento y reproducción entre tres especies de tortugas que interactúan en un espacio determinado con la finalidad de recolectar comida desde puntos de alimentación.
+Este modelo simula un sistema bioinspirado genético de comportamiento y reproducción entre tres especies de tortugas que interactúan en un espacio con la finalidad de recolectar comida desde puntos de alimentación.
 
 ## ¿Cómo funciona?: 
 
